@@ -9,6 +9,33 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JaritoThe3rd/Configuring-On-premises-Active-Directory-within-Azure-VMs/tree/main)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JaritoThe3rd/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+ 
+---
+
+## 👨‍💻 Software Development Experience:
+- **R Programming (STAT 1000 & 2000)**  
+  Used R for statistical data analysis, graphing, and simulation tasks such as descriptive statistics, linear regression, and hypothesis testing through academic labs and class projects.
+
+- **Java (COMP 1010 & 1020)**  
+  Gained foundational experience with Java syntax, object-oriented programming, and core programming concepts like loops, conditionals, and file I/O. Built beginner-level console applications and explored GUI development.
+
+- **Data Structures & Algorithms**  
+  Learned the importance of writing efficient code through hands-on implementation of linked lists, stacks, queues, sorting algorithms, and recursive problem-solving.
+
+- **Python Mega Course: Learn Python in 60 Days, Build 20 Apps**  
+  Built real-world projects like web scrapers, data visualizers, and desktop GUI apps. Gained confidence in Python basics, web development, and working with APIs.
+
+---
+
+## 🎮 Game Development Journey:
+- **Arma 3 Eden Editor**  
+  Introduced to mission design and scripting logic using in-game tools and SQF scripting for scenario creation.
+
+- **Unreal Engine 5 & C++ Fundamentals**  
+  - *Courses Completed:*  
+    - **C++ Fundamentals: Game Programming For Beginners**  
+    - **Unreal Engine 5 C++: The Ultimate Game Developer Course**  
+  - Learned level design, blueprint scripting, player mechanics, and integrating C++ logic with UE5 systems to build interactive prototypes.
 
 <h2>🤳Connect with me:</h2>
 
