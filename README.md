@@ -1,4 +1,4 @@
-<h1>Hi, I'm JaritoThe3rd, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm JaritoThe3rd, an <a href="https://linkedin.com/in/Josh">IT Professional, Sofware Developer, Game Developer, Aspiring Data analyst</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
