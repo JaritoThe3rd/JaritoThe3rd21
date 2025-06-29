@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation]((https://github.com/JaritoThe3rd/osTicket-Prerequisites-and-Installation))
+  - [osTicket: Post-Installation Configuration](https://github.com/JaritoThe3rd/osTicket-Post-Installation-Configuration/tree/main)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JaritoThe3rd/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JaritoThe3rd/Configuring-On-premises-Active-Directory-within-Azure-VMs/tree/main)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JaritoThe3rd/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
 
