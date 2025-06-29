@@ -17,6 +17,7 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]More actions
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 [twitter/X]: https://x.com/jaritogaming
 [instagram]: https://www.instagram.com/lizadam21/
 [linkedin]: https://www.linkedin.com/in/adamos-gabriel-jarito-95322221b/
