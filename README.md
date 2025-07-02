@@ -1,4 +1,4 @@
-<h1>Hi, I'm JaritoThe3rd, an <a href="https://linkedin.com/in/Josh">IT Professional, Software Developer, Game Developer, Aspiring Data analyst</a>☺</h1>
+<h1>Hi, I'm JaritoThe3rd, an <a href="https://linkedin.com/in/Josh">IT Professional, Self-Taught Software Developer and Game Developer, Aspiring Data analyst</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -13,10 +13,10 @@
 ---
 
 ## 👨‍💻 Software Development Experience:
-- **R Programming (STAT 1000 & 2000)**  
+- **R Programming**  
   Used R for statistical data analysis, graphing, and simulation tasks such as descriptive statistics, linear regression, and hypothesis testing through academic labs and class projects.
 
-- **Java (COMP 1010 & 1020)**  
+- **Java**  
   Gained foundational experience with Java syntax, object-oriented programming, and core programming concepts like loops, conditionals, and file I/O. Built beginner-level console applications and explored GUI development.
 
 - **Data Structures & Algorithms**  
