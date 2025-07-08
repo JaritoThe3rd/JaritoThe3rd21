@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JaritoThe3rd/Configuring-On-premises-Active-Directory-within-Azure-VMs/tree/main)
   - [Deploying-Active-Directory-from-Domain-Controller-VM](https://github.com/JaritoThe3rd/Deploying-Active-Directory-from-Domain-Controller-VM)
   - [Building an intuition for DNS Configurations](https://github.com/JaritoThe3rd/Building-an-Intuition-for-DNS)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JaritoThe3rd/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Network File Share Permissions Management](https://github.com/JaritoThe3rd/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
  
 ---
 
