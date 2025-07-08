@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JaritoThe3rd/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JaritoThe3rd/Configuring-On-premises-Active-Directory-within-Azure-VMs/tree/main)
+  - [Deploying-Active-Directory-from-Domain-Controller-VM](https://github.com/JaritoThe3rd/Deploying-Active-Directory-from-Domain-Controller-VM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JaritoThe3rd/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
  
 ---
